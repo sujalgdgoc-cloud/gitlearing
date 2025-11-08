@@ -6,7 +6,7 @@
 Homepage contains an image carsouel for showing the food banner while the rest of the part is combo of gridview and container as stack and positoned elevated buttons
 all of the homepage is under SingleChildScrollView so the design doesn't feel consgested
 
-![image alt](https://github.com/sujalgdgoc-cloud/gitlearing/blob/e2fd64219eb2bb3827313e274fa8b669c3eb316e/Screenshot%202025-11-08%20115201.png)
+![image alt](https://github.com/sujalgdgoc-cloud/gitlearing/blob/007d0b08cb37b2cdb9fb505b0fd16ee66b588e32/Screenshot%202025-11-08%20115146.png)
 
 <h1> This is the login screen of the app having validator to check for the corrrect input from the user</h1>
 
